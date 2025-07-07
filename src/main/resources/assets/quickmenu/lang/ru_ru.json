@@ -1,0 +1,45 @@
+{
+  "key.category.quickmenu": "Быстрое меню",
+  "key.quickmenu.open": "Открыть меню",
+
+
+  "menu.main.title": "Быстрое меню",
+  "menu.main.no_actions": "Никаких действий не создано.",
+  "menu.main.button.add_action": "Добавить действие",
+  "menu.main.button.config": "Конфигурация",
+
+  "menu.action_picker.select": " > ",
+
+
+  "menu.editor.title": "Редактор действий",
+  "menu.editor.button.finish": "Готово",
+  "menu.editor.button.cancel": "Отмена",
+  "menu.editor.actions": "Действия",
+  "menu.editor.advanced": "Дополнительно",
+  "menu.editor.not_bound": "Не связан",
+
+  "menu.editor.property.name": "Имя",
+  "menu.editor.property.icon": "Иконка",
+  "menu.editor.property.keybind": "Назначить клавишу",
+  "menu.editor.property.custommodeldata": "Пользовательские модели",
+  "menu.editor.property.new_action": "Новое действие",
+
+
+  "text.config.quickmenu.title": "Настройка Быстрого меню",
+
+  "text.config.quickmenu.section.menu": "Меню",
+  "text.config.quickmenu.section.action_buttons": "Клавиша действия",
+
+  "text.config.quickmenu.option.menuWidth": "Ширина меню",
+  "text.config.quickmenu.option.menuHeight": "Высота меню",
+  "text.config.quickmenu.option.buttonsPerRow": "Кнопки в каждом ряду",
+  "text.config.quickmenu.option.closeOnAction": "Закрыть при выполнении действия",
+  "text.config.quickmenu.option.closeOnKeyReleased": "Закрыть при отпущенной клавише",
+  "text.config.quickmenu.option.hideEditIcon": "Скрыть значок редактирования",
+  "text.config.quickmenu.option.showActionsInTooltip": "Показывать действия во всплывающей подсказке",
+  "text.config.quickmenu.option.displayRunText": "Показывать запущенный текст",
+
+  "text.config.quickmenu.option.displayRunText.value.always": "Всегда",
+  "text.config.quickmenu.option.displayRunText.value.keybind_only": "При нажатии",
+  "text.config.quickmenu.option.displayRunText.value.never": "Никогда"
+}
